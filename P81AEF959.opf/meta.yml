@@ -1,0 +1,13 @@
+id: P81AEF959
+initial_creation_type: input
+source_metadata:
+  title: 'BA: Daśabhūmikasūtra'
+  language: bo
+  volumes:
+    a685386ba9c148b6b901441e42dcd27a:
+      title: .txt
+      base_file: .txt.txt
+      work_id: W285F113D
+  chapter_to_tile: {}
+created_at: '2022-03-01T21:21:08.884673'
+last_modified_at: '2022-03-01T21:21:08.884679'
